@@ -122,7 +122,7 @@
 "resources": {
   "wasmNative": {
     "dotnet.native.6p12adq9gl.wasm": {
-      "url": "https://cdn.jsdelivr.net/gh/29tunderwood-oss/terraria-wasm@v1.0.0/_framework/dotnet.native.6p12adq9gl.wasm",
+      "url": "https://cdn.jsdelivr.net/gh/29tunderwood-oss/terraria-wasm@v1/_framework/dotnet.native.6p12adq9gl.wasm",
       "hash": "sha256-rDt+4gTPAX9FCiZVuNkHy8F3ickoa5+w7L6G53xvQ34="
     }
   }
