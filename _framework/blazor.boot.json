@@ -117,6 +117,7 @@
       "dotnet.runtime.5c6f0nk6pn.js": "sha256-K7ZYHNXugg/WCes4vr/G2kIL9jVYLTp09vdmdi0N+W8="
     },
     "wasmNative": {
+      "dotnet.native.6p12adq9gl.wasm": "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
